@@ -1,2 +1,2 @@
 n="hello"
-print(n)
+print(n):
